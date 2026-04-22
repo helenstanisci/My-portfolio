@@ -1,3 +1,4 @@
+<img width="933" height="416" alt="Screenshot 2026-04-21 at 11 28 08 PM" src="https://github.com/user-attachments/assets/51164c43-f66b-4d25-88ad-09b370c41c54" />
 # Helen Stanisci
 Contact Info: Helen Stanisci
 hjstanisci@loyola.edu
@@ -20,11 +21,11 @@ Class of 2028
 
 #### Inventory Manager
 
-- ![Image](link-to-image)
+- ![Image]
 - [Read the Report](link-to-report)
 
 ***
-#### Project 2 Title
+#### Video Recording
 - ![Image](link-to-image)
 - Write-up here
 
