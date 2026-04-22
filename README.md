@@ -38,19 +38,36 @@ I set out to complete this assignment and fulfill all of the requirements which 
 
 ***
 #### Course Calendar
-- 
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://moodle.loyola.edu/pluginfile.php/5920216/assignsubmission_file/submission_files/3126481/Assessment1_CS105.01_Making%20Sense%20of%20Data_SH102.png?forcedownload=1</string>
-</dict>
-</plist>
+- <img width="979" height="582" alt="Screenshot 2026-04-22 at 12 13 04 AM" src="https://github.com/user-attachments/assets/6e346032-7b56-4dca-b004-afec28215942" />
+Initial project idea: 
+I struggled at first to get the dates correctly and to have them repeating but it was needed to organise my calendar.
+ 
+Tools I used: 
+I used Microsoft Outlook calendar to complete this project. 
+ 
+Challenges I faced:
+A challenge was keeping the dates for each class in the right time periods, for some reason I kept messing it up and had to redo them.
 
-- Write-up here
+Other Resources: 
+I used my course sylabusses and my own written calendar to gather the information.
+
+Result:
+I set out to make a useable calendar that would help me to become better organised, which I think it achieved. I would go in furhter and add or remove other events in the calendar on days where i have other things and where I wouldnt have class.  
 
 ***
 #### Video Recording
-- ![Image](link-to-image)
-- Write-up here
+- <img width="1470" height="956" alt="Screenshot 2026-04-22 at 12 09 03 AM" src="https://github.com/user-attachments/assets/af040929-9506-4877-9b6c-de0eac1403a9" />
+Initial project idea: 
+I had a problem setting up the recording software that was used, but after learning how to use it I could record my video . 
+ 
+Tools I used: 
+I used ScreenPal to record my video.
+
+Challenges I faced:
+ScreenPal was not the easiest to use on my computer but through researching I figured out how to record on the software
+
+Other Resources: 
+I used google and the resources on Moodle to answer any questions I had on how to correctly record my video. 
+
+Result:
+I wanted to create a clear concise video that demonstrated the differences in various softwares and I think I achieved it. I would improve my presentation format and make the video longer to be able to explain my topic better. 
