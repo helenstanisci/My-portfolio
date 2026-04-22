@@ -21,14 +21,36 @@ Class of 2028.
 #### Inventory Manager
 
 - <img width="933" height="416" alt="Screenshot 2026-04-21 at 11 28 08 PM" src="https://github.com/user-attachments/assets/51164c43-f66b-4d25-88ad-09b370c41c54" />
-- [Read the Report](link-to-report)
+- Initial project idea: 
+I had a hard time figuring out the excel and exactly what promts to use and it was solved because knowing how to use the promts is very useful when dealing with excel.
+ 
+Tools I used: 
+I used excel to complete this project.  
+ 
+Challenges I faced:
+I had a hard time finding the difference in purchase price and selling price but I just had to research more. 
+
+Other Resources: 
+I collaborated with my friend who helped me pick which topic I would use.
+
+Result:
+I set out to complete this assignment and fulfill all of the requirements which I achieved. I would make the chart more detailed and include more information on the products.
 
 ***
-#### Video Recording
-- ![Image](link-to-image)
+#### Course Calendar
+- 
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://moodle.loyola.edu/pluginfile.php/5920216/assignsubmission_file/submission_files/3126481/Assessment1_CS105.01_Making%20Sense%20of%20Data_SH102.png?forcedownload=1</string>
+</dict>
+</plist>
+
 - Write-up here
 
 ***
-#### Project 3 Title
+#### Video Recording
 - ![Image](link-to-image)
 - Write-up here
