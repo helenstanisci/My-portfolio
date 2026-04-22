@@ -1,6 +1,5 @@
-<img width="933" height="416" alt="Screenshot 2026-04-21 at 11 28 08 PM" src="https://github.com/user-attachments/assets/51164c43-f66b-4d25-88ad-09b370c41c54" />
 # Helen Stanisci
-Contact Info: Helen Stanisci
+Contact Info:
 hjstanisci@loyola.edu
 9739860829
 ### About Me
@@ -13,15 +12,15 @@ My versatile skill set, commitment to high quality work, and passion for making 
 You can find me on LinkedIn, Instagram or Facebook. 
 
 ### Education  
-Loyola University Maryland
-Sociology major
-Class of 2028
+Loyola University Maryland,
+Sociology major,
+Class of 2028.
 
 ### Projects
 
 #### Inventory Manager
 
-- ![Image]
+- <img width="933" height="416" alt="Screenshot 2026-04-21 at 11 28 08 PM" src="https://github.com/user-attachments/assets/51164c43-f66b-4d25-88ad-09b370c41c54" />
 - [Read the Report](link-to-report)
 
 ***
