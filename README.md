@@ -62,7 +62,7 @@ I set out to make a useable calendar that would help me to become better organis
 - <img width="1470" height="956" alt="Screenshot 2026-04-22 at 12 09 03 AM" src="https://github.com/user-attachments/assets/af040929-9506-4877-9b6c-de0eac1403a9" />
 Initial project idea: 
 I had a problem setting up the recording software that was used, but after learning how to use it I could record my video . 
- 
+[Video Recording](https://somup.com/cOf0eTVVfGL) 
 Tools I used: 
 I used ScreenPal to record my video.
 
