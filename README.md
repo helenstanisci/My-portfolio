@@ -37,6 +37,7 @@ I collaborated with my friend who helped me pick which topic I would use.
 
 Result:
 I set out to complete this assignment and fulfill all of the requirements which I achieved. I would make the chart more detailed and include more information on the products.
+[Inventory manager](https://studentsloyola-my.sharepoint.com/:x:/r/personal/hjstanisci_loyola_edu/Documents/2026%20Spring%20Semester/26%20CS%20105/HelenStanisci,%20CS105.01,%20Excel%20Assessment%208.xlsx?d=w4295755c7eb04c809e0bfe5f48ed5579&csf=1&web=1&e=DGlcsc)
 
 ***
 #### Course Calendar
