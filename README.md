@@ -2,7 +2,7 @@
 Contact Info:
 hjstanisci@loyola.edu
 9739860829
-<img width="1134" height="1118" alt="BC00BB2A-F741-41AE-B6E7-1327B77C3F12" src="https://github.com/user-attachments/assets/2c1ae528-570d-4323-91be-1fb4c55b8bfe" />
+<img width="54" height="115" alt="BC00BB2A-F741-41AE-B6E7-1327B77C3F12" src="https://github.com/user-attachments/assets/2c1ae528-570d-4323-91be-1fb4c55b8bfe" />
 
 ### About Me
 Hello! I am an experienced Cosmetologist and nail technician with over 15 years of proven expertise in nail art and skincare. 
